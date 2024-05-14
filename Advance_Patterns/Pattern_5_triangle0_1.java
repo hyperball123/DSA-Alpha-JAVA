@@ -14,5 +14,6 @@ public class Pattern_5_triangle0_1 {
             }
             System.out.println();
         }
+
     }
 }
